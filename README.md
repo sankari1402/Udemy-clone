@@ -18,6 +18,22 @@ I created a simple **Udemy clone website** using **HTML and CSS** to practice fr
 > This is a static project — no JavaScript or backend functionality is included.
 
 ## 📁 Project Structure
+/udemy-clone/
+├── index.html (Main homepage)
+├── style.css (Main stylesheet)
+├── assets/ (Images, icons, etc.)
+
+## 📸 Preview
+
+You can view the live version of the project here:  
+👉 [GitHub Pages Link](https://your-username.github.io/udemy-clone/)  
+*(Update the link after deploying)*
+
+## 📥 How to View Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/udemy-clone.git
 
 
 
