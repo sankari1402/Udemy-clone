@@ -26,7 +26,7 @@ I created a simple **Udemy clone website** using **HTML and CSS** to practice fr
 ## 📸 Preview
 
 You can view the live version of the project here:  
-👉 [GitHub Pages Link](https://your-username.github.io/udemy-clone/)  
+👉 [GitHub Pages Link](https://sankari1402.github.io/Udemy-clone/)  
 *(Update the link after deploying)*
 
 ## 📥 How to View Locally
